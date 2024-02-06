@@ -1,0 +1,23 @@
+Project Lead:
+21L-7521 		Shehroz Aziz
+Group Members:
+21L-6197 		Hamza Iftikhar
+21L-7708 		Muhammad Saib
+
+Topic:
+		"Any Car Motors" (Vehicle Show Room Management System) 
+
+
+
+Instructions......
+1. During the execution Maximize console screen for better output.
+2. Copy all the sounds in "Sounds" folder to project folder and open the volume to heardable level.
+3. During first time execution for manager set password and remember it. 
+
+
+
+
+
+
+--------------------------Any Car motors Imagine the Unimaginable---------------
+
